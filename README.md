@@ -40,16 +40,19 @@ The dashboard can be found in Power BI [here](https://github.com/Zahra-Aliyeva/P
 Overall Trends:
 
 •	Looking at annual terrorist activity, the number of attacks shows clear peaks and troughs rather than a steady trend. Significant increases are visible in certain decades, while other periods show relative calm. This fluctuation reflects the influence of geopolitical events, conflicts, and regional instability.
+
 •	Geographically, attacks are not evenly distributed. Certain countries and regions experience the bulk of incidents, while others see relatively few. This highlights that terrorism risk is highly concentrated in specific hotspots rather than being globally uniform.
 
 Severity & Risk Patterns:
 
 •	Grouping incidents by severity shows that most attacks fall into low or medium severity, yet a small number of high-severity attacks account for a disproportionately large share of total casualties. In other words, “few but extremely impactful” events drive much of the overall death and injury statistics.
+
 •	The calculated risk scores (nkill * 2 + nwound) reveal that a handful of attacks carry extremely high impact, often occurring in major cities and involving explosives. Incidents without recorded coordinates tend to have lower average severity, likely reflecting incomplete reporting or smaller-scale events.
 
 Weapon & Target Analysis:
 
 •	Explosives are the most frequently used and deadliest weapon type, while firearms are common but generally less lethal in aggregate.
+
 •	Target analysis shows that certain target types are repeatedly attacked, suggesting that many incidents are strategic rather than random. Cross-analyzing weapon and target types reveals clear patterns: some weapon-target combinations occur more frequently, indicating tactical preferences among perpetrators.
 
 Group Activity & Success Rate:
@@ -59,6 +62,7 @@ Group Activity & Success Rate:
 Temporal & Seasonal Insights:
 
 •	Monthly distribution suggests that attacks occur year-round, but spikes in specific months hint at seasonal factors or politically significant periods.
+
 •	Looking at the deadliest incident, each year shows that the countries most affected by severe attacks vary over time, underlining how risk shifts geographically as global and regional dynamics change.
 
 Suspicious vs Confirmed Incidents:
