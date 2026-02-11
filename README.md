@@ -22,11 +22,7 @@ This project demonstrates a complete end-to-end data analytics workflow, turning
 The Global Terrorism Database (GTD) contains detailed information on terrorist incidents worldwide, with over 180,000 recorded events spanning multiple decades and regions. Each record includes information on the date, location, attack type, target, casualties, perpetrators, and weapons used.
 
 Before starting the analysis, the dataset was thoroughly cleaned and pre-processed using Python (Pandas) to handle missing values, inconsistent fields, and irrelevant records. 
-Key steps included:
-- Dropping unnecessary columns and filling missing values for critical fields like summary, motive, city, provstate, nkill, nwound, and attacktype1_txt.
-- Creating derived columns such as date_quality (to indicate whether the full date, year-month, or only year is known) and severity_level (to categorize incidents based on fatalities).
-- Identifying invalid or negative casualty counts and ensuring data consistency.
-- Preparing the dataset for SQL-based analysis and Power BI visualization.
+Steps taken to clean, check data quality and prep the dataset for analysis can be found [here](https://github.com/Zahra-Aliyeva/Project-global_terrorism-/blob/main/GTD%20python(pandas).ipynb).
   
 SQL queries were used to perform additional quality checks, explore trends, and validate assumptions. These queries helped identify missing coordinates, group activity, attack success rates, and other key metrics.
 An interactive Power BI dashboard was later built using this cleaned and structured dataset to visualize global and regional terrorism patterns, trends over time, and the severity of incidents.
