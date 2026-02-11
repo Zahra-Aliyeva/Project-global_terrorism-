@@ -16,8 +16,6 @@ Insights and analysis in this project cover the following key areas:
 
 Interactive Power BI dashboards were created to visualize these patterns and make the data easy to explore. SQL queries used for data cleaning, validation, and targeted analysis are included in the project to ensure reproducibility and transparency.
 
-This project demonstrates a complete end-to-end data analytics workflow, turning a complex and sensitive dataset into actionable insights that can support research, risk assessment, and informed discussions on global security trends.
-
 # Dataset Structure, Data Cleaning & Initial Checks 📑
 The Global Terrorism Database (GTD) contains detailed information on terrorist incidents worldwide, with over 180,000 recorded events spanning multiple decades and regions. Each record includes information on the date, location, attack type, target, casualties, perpetrators, and weapons used.
 
@@ -26,3 +24,14 @@ Steps taken to clean, check data quality and prep the dataset for analysis can b
   
 SQL queries were used to perform additional quality checks, explore trends, and validate assumptions. These queries helped identify missing coordinates, group activity, attack success rates, and other key metrics.
 An interactive Power BI dashboard was later built using this cleaned and structured dataset to visualize global and regional terrorism patterns, trends over time, and the severity of incidents.
+
+# Exploratory Data Analysis 🔎
+For the exploratory phase, I used SQL to dig into the Global Terrorism Database and better understand its structure and patterns. The analysis focused on yearly attack trends, country-level summaries, severity levels, weapon types, group success rates, missing geographic coordinates, and a custom risk score based on casualties.
+
+All analytical queries were written in a single SQL script, which can be found [here](https://github.com/Zahra-Aliyeva/Project-global_terrorism-/blob/main/sql(global_terrorism).sql)
+
+<img width="1317" height="737" alt="Screenshot power bi" src="https://github.com/user-attachments/assets/179ab7c0-47d8-4152-b79c-8609895ba6e7" />
+
+
+After completing the analysis the cleaned and structured data was imported into Power BI to build an interactive dashboard. The dashboard allows users to filter by year, country, region, attack type, and severity level, making it easier to explore global and regional terrorism patterns dynamically. 
+The dashboard can be found in Power BI [here](https://github.com/Zahra-Aliyeva/Project-global_terrorism-/blob/main/globalterrorism.pbix)
