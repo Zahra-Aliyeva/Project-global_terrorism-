@@ -60,8 +60,20 @@ Temporal & Seasonal Insights:
 
 •	Monthly distribution suggests that attacks occur year-round, but spikes in specific months hint at seasonal factors or politically significant periods.
 •	Looking at the deadliest incident, each year shows that the countries most affected by severe attacks vary over time, underlining how risk shifts geographically as global and regional dynamics change.
+
 Suspicious vs Confirmed Incidents:
+
 •	Comparing confirmed and doubtful incidents reveals that confirmed attacks generally result in higher casualties. This likely reflects better reporting for high-impact events, while minor or ambiguous events are more often classified as doubtful.
 
+# Recommendations 🛠️
+•	Incident Reporting & Data Quality: many incidents had missing coordinates or incomplete date information. Standardizing how casualties, locations, and attack details are reported will make future analyses more accurate and actionable.
+
+•	Weapon & Attack Preparedness: explosives and firearms were the most commonly used and deadly weapons. Reinforcing emergency response plans, public awareness programs, and preventive measures for these attack types can reduce harm.
+
+•	Group Activity & Threat Assessment: active terrorist groups with high success rates should be closely monitored.  Understanding their patterns like jobttack types, targets, and regions helps anticipate future high-risk events.
+
+•	Public Safety & Awareness: localized safety strategies for countries where US and other foreign citizens are most affected can save lives. Training, alerts, and preventive guidance should target high-risk cities and months identified in the seasonal analysis.
+
+•	Long-Term Insights: trends in attack types, targets, and casualties should be reviewed regularly. Using severity levels and seasonal patterns, law enforcement and policymakers can plan interventions more efficiently and prevent escalation.
 
 
