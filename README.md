@@ -1,4 +1,4 @@
-# Overview 📖
+# Overview 📖 
 This project explores global terrorism patterns using the Global Terrorism Database (GTD). The raw data was first cleaned and pre-processed with Python (Pandas) to handle missing values, inconsistencies, and irrelevant records. After cleaning, SQL queries were used to analyze trends over time, regional differences, attack and target types, group activity, and incident severity.
 
 The final, analysis-ready dataset was visualized in Power BI, creating interactive dashboards that highlight global and regional patterns, the evolution of terrorist activity, and the impact of different attack methods. 
