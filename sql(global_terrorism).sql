@@ -1,4 +1,4 @@
-CREATE TABLE terrorism (
+CREATE TABLE terrorism ( 
     eventid BIGINT,
     iyear INT,
     imonth INT,
